@@ -3,6 +3,7 @@ $NetBSD: distinfo,v 1.168 2025/03/07 07:00:33 wiz Exp $
 BLAKE2s (mesa-21.3.9.tar.xz) = e948a37881a088c0df4df880e3d1218b874ed5a8cac951a109249b3648519472
 SHA512 (mesa-21.3.9.tar.xz) = 4cec6f4f50f444fcd327f7c40f8899c2f265e348e121455262b540b1f890a1468bbea59965af0876c548fa97aa0a05a1b23fa6ca7d308bd60328cfdeab757684
 Size (mesa-21.3.9.tar.xz) = 16607716 bytes
+SHA1 (patch-include_c11_threads__posix.h) = d99ae0c0e88e758eccf7748e4cfb24beeff71b8e
 SHA1 (patch-src_compiler_builtin__type__macros.h) = e4868011711fb89a293580a12eb603b8e7162336
 SHA1 (patch-src_drm-shim_drm__shim.c) = 6884d31dc3e9d47aac1785589ab289a601e64545
 SHA1 (patch-src_egl_drivers_dri2_platform__drm.c) = 9230fbae2c04246ebca8437ecad694bbae857fbe
